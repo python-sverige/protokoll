@@ -18,7 +18,7 @@ The order is title, authors and date. More info can be found in the Pandoc docum
 
 How to export to PDF
 --------------------
-Install [Pandoc](http://johnmacfarlane.net/pandoc/) and compile to PDF. Use option ```-N``` to add numbering to each section in the output.
+Install [Pandoc](http://johnmacfarlane.net/pandoc/installing.html) and the recommended LaTeX compiler for you OS given by the Pandoc instructions. Use option ```-N``` to add numbering to each section in the output.
 
 ```
 pandoc -N input.md -o output.pdf
