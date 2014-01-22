@@ -1,97 +1,88 @@
-% Styrelsemöte - Python Sverige
-% Sekreterare: Tome Cvitan \
-  Justerare: Fredrik Håård och Rickard Zachrisson
-% 2013-01-21
+# Styrelsemöte - Python Sverige
 
-Mötets öppnande
-===============
+**Datum:** 2013-01-21
+
+**Sekreterare:** Tome Cvitan 
+
+**Justerare:** Fredrik Håård och Rickard Zachrisson
+   
+### Mötets öppnande
 
 Mötet förklarades öppnat 20:20.
 
-Val av mötesordförande
-======================
+### Val av mötesordförande
 
 Fredrik Håård
 
-Val av mötessekreterare
-=======================
+### Val av mötessekreterare
 
 Tome Cvitan
 
-Val av mötesjusterare
-=====================
+### Val av mötesjusterare
 
 Fredrik Håård och Rickard Zachrisson.
 
-Godkännande av dagordning
-=========================
+### Godkännande av dagordning
 
-Godkändes.
+Dagordningen godkändes.
 
-Genomgång av föregående mötesprotokoll
-=======================================
+### Genomgång av föregående mötesprotokoll
 
 Fredrik gick igenom protokollet från föregående möte.
 
-Ansökan - Ideell förening
-=======================
+### Ansökan - Ideell förening
 
 Föreningsansökan är inlämnad och svar avvaktas. Fredrik kontaktar Skatteverket under nästa vecka för att kontrollera status på ansökan.
 
-Ekonomi
-=======
+### Ekonomi
 
 Rickard har varit i kontakt med Swedbank och valt Swedbank Hamngatan som föreningens bankkontor. Rickard arbetar med att färdigställa och skicka in en bankkontoansökan och ett bankkonto kommer sannolikt att vara tillgängligt till nästa styrelsemöte.
 
-Lokal och mat
-=============
+### Lokal och mat
 
 Frej har tagit fram ett antal förslag på cateringalternativ. En diskussion fördes kring olika alternativ för middag. Det beslutades att vi ser över alternativen, tittar på lokaler, tar in fler offerter samt tar ett beslut vid senare tillfälle.
 
-Program
-=======
+### Program
 
 Nicolas har gått igenom befintliga förslag och framställde. Det beslutades att Nicolas ska skapa en lista med de mest intressanta talarna varpå vi diskuterar detta och börjar kontakta dessa. 
 
-Marknadsföring & web
-====================
+### Marknadsföring & web
 
 Det beslutades att Tome ska ta fram en call for proposals inom ett par dagar och posta den på Ginger. Tome kollar även upp potentiella strategier för marknadsföring och en budget för dessa fram till nästa styrelsemöte.
 
-Sponsring
-=========
+### Sponsring
 
 Man diskuterade sponsringsnivåer och beslutade att man definierar fyra nivåer; 10 000kr, 25 000kr (10st), 50 000kr (2st) och 75 000kr (1st). Detaljerna kring vad varje nivå innebär definieras via Ginger.
 
-Budgetförslag
-=============
+### Budgetförslag
 
 Budgetförslaget diskuteras vidare via Ginger då det är under uppbyggnad.
 
-Övriga frågor
-=============
+### Övriga frågor
 
-Responstid på Ginger
-:   Frej tog upp frågan kring hur vi ska använda Ginger. Det beslutades att en rimlig nivå är att alla kollar Ginger en gång om dagen. Dessutom beslutades det att alla skulle lägga till varandra på Skype som ett realtidskomplement.
+###### Responstid på Ginger
+Frej tog upp frågan kring hur vi ska använda Ginger. Det beslutades att en rimlig nivå är att alla kollar Ginger en gång om dagen. Dessutom beslutades det att alla skulle lägga till varandra på Skype som ett realtidskomplement.
 
-Biljettpris
-:   Det beslutades att biljettpris ska beslutas baserat på fasta kostnader för att säkerställa möjlighet till att täcka de grundläggande fasta kostnaderna
+###### Biljettpris
 
-Justering via Pull request
-:   Det beslutades att mötesjustering signeras genom en commit där man gjort sitt namn kursivt i protokollet.
+Det beslutades att biljettpris ska beslutas baserat på fasta kostnader för att säkerställa möjlighet till att täcka de grundläggande fasta kostnaderna
 
-Videoinspelning och streaming
-:   Det beslutades att skjuta upp detta ämne till nästa möte.
+###### Justering via Pull request
 
-Volontärer
-:   Det beslutades att Frej skulle undersöka möjligheten att få studenter att ställa upp som volontärer mot nedsatt eller gratis biljetter. Fredrik startar en volontärtråd på Ginger för att diskutera detta vidare.
+Det beslutades att mötesjustering signeras genom en commit där man gjort sitt namn kursivt i protokollet.
 
-Nästa styrelsemöte
-==================
+###### Videoinspelning och streaming
+
+Det beslutades att skjuta upp detta ämne till nästa möte.
+
+###### Volontärer
+
+Det beslutades att vi skulle undersöka möjligheten att få studenter att ställa upp som volontärer mot nedsatt eller gratis biljetter. Fredrik startar en volontärtråd på Ginger för att diskutera detta vidare.
+
+### Nästa styrelsemöte
 
 Torsdag 30 januari 20:00 - 21:00.
 
-Mötets avslutande
-=================
+### Mötets avslutande
 
 Mötet avslutades 21:30.
