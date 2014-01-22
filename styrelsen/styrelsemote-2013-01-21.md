@@ -1,5 +1,5 @@
 % Styrelsemöte - Python Sverige
-% Sekreterare: Frej Connolly \
+% Sekreterare: Tome Cvitan \
   Justerare: Fredrik Håård och Rickard Zachrisson
 % 2013-01-21
 
