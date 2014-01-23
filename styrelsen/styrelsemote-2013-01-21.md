@@ -56,7 +56,7 @@ Man diskuterade sponsringsnivåer och beslutade att man definierar fyra nivåer;
 
 ### Budgetförslag
 
-Budgetförslaget diskuteras vidare via Ginger då det är under uppbyggnad. Budgeten läggs i ett Google-kalkylblad för att få versionskontroll.
+Budgetförslaget diskuteras vidare via Ginger då det är under uppbyggnad. Rikard lägger in budgeten i ett Google-kalkylblad för att få versionskontroll och delar detta till styrelsen.
 
 ### Övriga frågor
 
