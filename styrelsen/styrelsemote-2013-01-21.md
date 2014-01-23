@@ -44,11 +44,11 @@ Frej har tagit fram ett antal förslag på cateringalternativ. En diskussion fö
 
 ### Program
 
-Nicolas har gått igenom befintliga förslag och framställde. Det beslutades att Nicolas ska skapa en lista med de mest intressanta talarna varpå vi diskuterar detta och börjar kontakta dessa. 
+Nicolas har gått igenom befintliga förslag och framställde. Det beslutades att Nicolas ska skapa en lista med de mest intressanta talarna på Ginger varpå vi diskuterar detta och börjar kontakta dessa. 
 
 ### Marknadsföring & web
 
-Det beslutades att Tome ska ta fram en call for proposals inom ett par dagar och posta den på Ginger. Tome kollar även upp potentiella strategier för marknadsföring och en budget för dessa fram till nästa styrelsemöte.
+Det beslutades att Tome ska ta fram en call for proposals inom ett par dagar och posta den på Ginger, samt förslag på hemsida senast torsdag. Tome kollar även upp potentiella strategier för marknadsföring och en budget för dessa fram till nästa styrelsemöte.
 
 ### Sponsring
 
@@ -56,7 +56,7 @@ Man diskuterade sponsringsnivåer och beslutade att man definierar fyra nivåer;
 
 ### Budgetförslag
 
-Budgetförslaget diskuteras vidare via Ginger då det är under uppbyggnad.
+Budgetförslaget diskuteras vidare via Ginger då det är under uppbyggnad. Budgeten läggs i ett Google-kalkylblad för att få versionskontroll.
 
 ### Övriga frågor
 
