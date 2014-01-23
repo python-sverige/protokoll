@@ -86,3 +86,7 @@ Torsdag 30 januari 20:00 - 21:00.
 ### Mötets avslutande
 
 Mötet avslutades 21:30.
+
+----
+
+Justerat: *Fredrik Håård*
