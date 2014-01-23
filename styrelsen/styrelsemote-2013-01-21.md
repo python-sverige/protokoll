@@ -32,7 +32,7 @@ Fredrik gick igenom protokollet från föregående möte.
 
 ### Ansökan - Ideell förening
 
-Föreningsansökan är inlämnad och svar avvaktas. Fredrik kontaktar Skatteverket under nästa vecka för att kontrollera status på ansökan.
+Frej skickade in ansökan för ideell förening till Skatteverket 17 januari. Svar avvaktas. Fredrik kontaktar Skatteverket under nästa vecka för att kontrollera status på ansökan.
 
 ### Ekonomi
 
