@@ -89,4 +89,4 @@ Mötet avslutades 21:30.
 
 ----
 
-Justerat: *Fredrik Håård*
+Justerat: *Fredrik Håård* *Rickard Zachrisson*
