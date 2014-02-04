@@ -81,4 +81,4 @@ Mötet avslutades 21:30.
 
 ----
 
-Justerat: 
+Justerat: *Tome Cvitan*
