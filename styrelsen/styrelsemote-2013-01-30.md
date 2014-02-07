@@ -81,3 +81,4 @@ Mötet avslutades 21:30.
 ----
 
 Justerat: *Tome Cvitan*
+Justerat: *Jyrki Pulliainen*
