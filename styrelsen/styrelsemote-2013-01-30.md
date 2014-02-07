@@ -5,7 +5,7 @@
 **Sekreterare:** Rickard Zachrisson
 
 **Justerare:** Tome Cvitan, Jyrki Pulliainen
-   
+
 ### Mötets öppnande
 
 Mötet förklarades öppnat 20:10.
@@ -80,4 +80,4 @@ Mötet avslutades 21:30.
 
 ----
 
-Justerat: 
+Justerat:
