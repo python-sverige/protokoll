@@ -1,6 +1,6 @@
 # Styrelsemöte - Python Sverige
 
-**Datum:** 2013-01-30
+**Datum:** 2014-01-30
 
 **Sekreterare:** Rickard Zachrisson
 
@@ -32,48 +32,47 @@ Fredrik gick igenom protokollet från föregående möte.
 
 ### Ekonomi
 
-Rickard is going to head to Swedbank to setup the account.
-Fredrik has offered to provide cash if the need rise. But if there is a charge that a person can handle for the moment, they should take it and later hand in receipt and be compensated.
-Budget will not be set, but rather adjusted over time due to many possible changes in costs.
+Rickard kommer att bege sig till Swedbank för att sätta upp kontot.
+Fredrik har erbjudit sig att genom sitt företag tillhandahålla pengar om det behövs. Om det är en kostnad som går att lägga ut så länge, så kan personen ta det och lämna in kvitto för ersättning senare.
+Budget kommer inte fastslås, den kommer att justeras över tid för att det är för många kostnader som är okända.
 
 ### Sponsring
 
-We will keep the sponsor levels Jyrkki initially suggested in ginger;
+Vi kommer att hålla oss till det sponsornivåer Jyrki tidigare föreslagit:
+* Brons, obegränsad, kostnad 10 000 SEK
 
-* Bronze, unlimited, cost 10 000 SEK
+* Silver, ingen gräns besämd, kostnad 20 000 SEK
 
-* Silver, no set limit, cost 20 000 SEK
+* Guld, begränsning 2, kostnad 30 000 SEK
 
-* Gold, limit 2, cost 30 000 SEK
-
-If a company will request a higher level than gold we will look at the posibility to offering this.
-We will set the limit for silver once we seen the venue.
-We will as boardmembers talk with our companies regarding sponsoring.
-We will also reach out to companies through the Python Stockholm Meetup.
-We will list all sponsors in Trello.
-Fredrik will create a draft for a sponsor contract in ginger, no later than monday.
+Om ett företag önskar en högre gräns så kommer vi att titta på möjligheten för att erbjuda detta.
+Vi kommer att sätta gränsen för silver när vi väl har sett lokalerna.
+Vi kommer som styrelsemedlemmar att tala med företagen vi jobbar på kring sponsring.
+Vi kommer även nå ut till företag genom Python Stockholm Meetup.
+We kommer lista alla sponsorer i Trello.
+Fredrik kommer att skapa ett utkast för ett sponsor kontrakt i Gringer, senast måndag.
 
 ### Lokal och mat
 
-We will postpone the disussion regarding food and venue.
-Rickard will update budget so that all numbers are with VAT included.
+Vi kommer att skjuta på diskussionen om mat och lokal.
+Rickard kommer att uppdatera budgeten så att alla siffror är inklusive moms.
 
 ### Program
 
-We will sort a list on keynotes speakers in ginger and discuss who to contact.
+Vi kommer att lista alla keynote-talare i Ginger och diskutera vem vi ska kontaka.
 
 ### Marknadsföring & web
 
-We will take the url pycon.se.
-Tome will set up the call for papers before Friday 7 february.
-We will postpone the discussion about registration for later.
+Vi kommer att använda url:en pycon.se
+Tome kommer att sätta upp "call for papers" senast fredag 7 februari.
+Vi kommer att skjuta på diskussionen om registrering till senare.
 
 ### Övriga frågor
-A disussion regarding ticket prices was raised, but we will postpone that discussion.
+Diskussion om biljettpriset togs upp, men vi kommer att skjuta på den diskussionen.
 
 ### Nästa styrelsemöte
 
-Next meeting will be discussed on Ginger.
+Nästa möte kommer att fastställas på Ginger.
 
 ### Mötets avslutande
 
