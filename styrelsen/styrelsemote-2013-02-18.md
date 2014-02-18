@@ -50,9 +50,9 @@ Ett gemensamt besök av den tänkta lokalen är planerat till tisdag nästa veck
 
 Nicolas har skapat ett utkast på konferensschema. Vi har börjat kontakta potentiella keynotetalare.
 
-### Marknasföring & web
+### Marknadsföring & Web
 
-Tome rapporterade hur dagens lansering. 
+Tome rapporterade o dagens lansering av evensida, twitterkonto och Facebook-sida och konstaterade att spridningen och mottagandet generellt var väldigt positivt. Feedback visade att vi behöver klargöra vilket språk som gäller på konferensen och vem som ligger bakom eventet samt samt publicera uppförandekodex. Det beslutades att Tome skulle göra dessa justeringar så snart som möjligt. Dessutom bör vi tänka på att betona att detta är den första *nationella* Pythonkonferensen vi syftar på vid extern kommunikation. 
 
 ### Övriga frågor
 
