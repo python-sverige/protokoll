@@ -66,7 +66,7 @@ Det beslutades att Frdrik ska ksick autt en länk till styrelsemötet några min
 
 ### Nästa styrelsemöte
 
-Torsdag 4 mars20:00 - 21:00.
+Torsdag 4 mars 20:00 - 21:00.
 
 ### Mötets avslutande
 
