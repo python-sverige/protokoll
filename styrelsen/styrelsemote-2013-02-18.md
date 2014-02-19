@@ -62,7 +62,7 @@ Det beslutades att Tome ska ta fram alternativ för biljettförsäljningspartner
 
 ###### Mötesverktyg
 
-Det beslutades att Frdrik ska ksick autt en länk till styrelsemötet några minuter innan eventet startar.
+Det beslutades att Fredrik ska skicka ut en länk till styrelsemötet några minuter innan styrelsemötet startar.
 
 ### Nästa styrelsemöte
 
