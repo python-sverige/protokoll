@@ -1,34 +1,34 @@
-# Styrelsemöte - Python Sverige
+# Board Meeting - Python Sverige
 
-**Datum:** 2013-03-18
+**Date:** 2013-03-18
 
-**Sekreterare:** Nicolas Lara
+**Secretary:** Nicolas Lara
 
-**Justerare:** Tome Cvitan och Rikard Zachrisson
+**Reviewers:** Tome Cvitan och Rikard Zachrisson
 
-### Mötets öppnande
+### Meeting started
 
-Mötet förklarades öppnat 20:05.
+The meeting was declared open at 20:05.
 
-### Val av mötesordförande
+### Selection of chairman
 
 Fredrik Håård
 
-### Val av mötessekreterare
+### Selection of secretary
 
 Nicolas Lara
 
-### Val av mötesjusterare
+### Selection of reviewers
 
 Tome Cvitan och Rikard Zachrisson.
 
-### Godkännande av dagordning
+### Approving the agenda
 
-Dagordningen godkändes.
+Approved.
 
-### Genomgång av föregående mötesprotokoll
+### Reviewing the minute from the previous meeting
 
-Fredrik gick igenom protokollet från föregående möte.
+Fredrik went over the minute from the previous meeting
 
 ### Sponsring
 
@@ -53,24 +53,24 @@ Fredrik gick igenom protokollet från föregående möte.
  * Rikard will start to work on billing
  * We need to add special registration codes for sponsors and send it to them.
 
-### Lokal och mat
+### Venue and food
 
 #### Venue
 
  * Booked
  * Frej will try to get the other meeting re-booked so that we get the whole top floor
 
-#### Bestämma lunchleverantör
+#### Decide on lunch providers
 
  * We will use restaurant Q and negotiate with them to get the best possible food option.
 
-#### Diskutera middag
+#### Discuss the dinner options
 
  * Tome will ask for other alternative dinner places
 
 ### Program
 
-#### Inbjudna talare
+#### Invited speakers
 
 * 3 keynotes
 
@@ -84,9 +84,9 @@ Fredrik gick igenom protokollet från föregående möte.
      * If you need to abstain for personal conflict, write that.
      * It’s not allowed to abstain for lack of opinion
 
-### Marknadsföring, web och registrering
+### Marketing, web and registration
 
-#### Biljettförsäljning status
+#### Ticket sales status
 
  * 40 tickets sold
      * 14 corporate
@@ -94,7 +94,7 @@ Fredrik gick igenom protokollet från föregående möte.
      * 13 student tickets
  * Total sales ~40 000kr
 
-#### Studentpris till arbetslösa?
+#### Give student price to the unemployed?
 
  * We will offer student tickets to unemployed if they ask for it
  * If we run out of student tickets, we’ll place the people in a queue in case we have tickets left at the end.
@@ -116,32 +116,33 @@ Fredrik gick igenom protokollet från föregående möte.
  * Nicolas will follow up with the keynotes for the bio/pic
 
 #### Announcing venue
+
  * Announce the venue this week.
 
 #### Annoucing sponsors
 
  * Announce sponsors twice a week.
 
-### Frivilliga
+### Volunteers
 
-#### Ansvarig för frivilliga?
+#### Responsible for volunteers?
  * We will ask Oxana if she wants to be in charge of the volunteers
 
-#### Hur tackar vi frivilliga?
+#### How to thank the volunteers?
 
  * Deferred
 
-#### Hur rekryterar vi frivilliga?
+#### How do we recruit the volunteers?
 
  * We have had people showing interest (and the people that was on the initial Ginger team). Start by contacting them.
 
-#### Börja använda öppen Ginger-board för saker som inte är interna för styrelsen
+#### Start using an open Ginger team for matters that aren't internal to the board
 
  * Agreed
 
-### Övriga frågor
+### Other questions
 
-#### Bussfaktorn
+#### Bus-factor
 
 * We will fix any single points of failure that we have
 
@@ -149,7 +150,7 @@ Fredrik gick igenom protokollet från föregående möte.
 
  * Nicolas will contact the PyData speakers and Jacqueline Kazil and lead the discussion on getting the sponsorship from Vetenskapsrådet
 
-#### Ansvarsområden / information
+#### Areas of responsibility / information
 
  * We will try to keep whoever is in charge of different areas informed about their specific areas.
 
@@ -161,14 +162,14 @@ Fredrik gick igenom protokollet från föregående möte.
 
  * Jyrki will contact a photographer
 
-### Nästa styrelsemöte
+### Next board meeting
 
 Torsdag 1 Apr 20:00 - 21:00.
 
-### Mötets avslutande
+### Meeting closing
 
-Mötet avslutades 20:55.
+The meeting ended at 20:55.
 
 ----
 
-Justerat: Tome Cvitan och Rikard Zachrisson.
+Reviewed by: Tome Cvitan and Rikard Zachrisson.
