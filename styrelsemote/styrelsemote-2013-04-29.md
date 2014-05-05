@@ -1,6 +1,6 @@
 # Styrelsemöte - Python Sverige
 
-**Datum:** 2013-03-18
+**Datum:** 2014-04-29
 
 **Sekreterare:** Nicolas Lara
 
