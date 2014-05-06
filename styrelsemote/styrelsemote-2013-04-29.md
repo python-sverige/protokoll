@@ -132,7 +132,7 @@ it’s working
 
 ### Nästa styrelsemöte
 
-Next tuesday at 08.00
+Next tuesday at 20.00
 
 ### Mötet avslutas
 
