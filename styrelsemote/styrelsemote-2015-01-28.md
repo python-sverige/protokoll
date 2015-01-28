@@ -19,8 +19,8 @@ We will discuss when to open the ticket sales on the next meeting
 
 ## Sponsoring
 
-Sponsoring information is on [the site](Sponsoring information is on
-the front page). We need to contact sponsors with that information
+Sponsoring information is on [the site](http://www.pycon.se/sponsorship.html).
+ We need to contact sponsors with that information.
 
 Jyrki will add the sponsors to the link at the top of the front page.
 
