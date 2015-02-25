@@ -2,7 +2,7 @@
 
 ### Sekreterare
 
-Fredrik Wihlborg was picked as secretary for this meeting
+Fredrik Vihlborg was picked as secretary for this meeting
 
 ### Justerare
 
@@ -13,7 +13,7 @@ Ana Hristova and Nicolas Lara were picked to review minutes
 - Ana Hristova
 - Tome Cvitan
 - Fredrik Håård
-- Fredrik Wihlborg
+- Fredrik Vihlborg
 - Nicolas Lara
 - Martin Melin
 
