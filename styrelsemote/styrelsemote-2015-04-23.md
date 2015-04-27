@@ -75,4 +75,4 @@ Only 5 people had registered as Staff in Eventbrite - we need a complete list of
 
 ### Next meeting
 
-Tuesday April 26, 20:00 Swedish time
+Tuesday April 28, 20:00 Swedish time
