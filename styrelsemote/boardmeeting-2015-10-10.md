@@ -34,9 +34,8 @@ more advanced talks.
  * 3 hours for the workshops
 
 
- Helio will take care of fixing the website
- - Create the page
- - Create the google form
+
+Helio will take care of fixing the website and create the google form.
 
 Aim to have this done by the third of november.
        
