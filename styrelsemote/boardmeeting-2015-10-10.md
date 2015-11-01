@@ -28,11 +28,12 @@ Fredrik Håård
 What where the lessons learned last year?
  - More advanced topics
  - Workshops
-
- Timeslots:
- - 30 minute slot
- - 45 minutes for a more advances talk
- - 3 hours for the workshops
+The feedback for last year called for more advanced topics and workshops.
+It was decided that for this year we should have tree different timeslots to accomodate workshops and longer
+more advanced talks.
+ * 30 minute slot
+ * 45 minutes for a more advances talk
+ * 3 hours for the workshops
 
 
  Helio will take care of fixing the website
