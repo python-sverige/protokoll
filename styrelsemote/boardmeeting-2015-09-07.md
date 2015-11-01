@@ -1,11 +1,15 @@
 ## Present
 Eric Skoglund
+
 Helio Lourerio
+
 Nicolas Lara
+
 Jyrkii Pulliainen
 
 Write in votes:
 Fredrik Hård
+
 Svetlin Stefanov
 
 ## Agenda
