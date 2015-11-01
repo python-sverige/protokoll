@@ -3,10 +3,15 @@
 # Present
 
 Eric Skoglund
+
 Helio Lourerio
+
 Svetlin Stefanov
+
 Jyrkii Pulliainen
+
 Ambreen Sheikh
+
 Fredrik Håård
 
 # Agenda
