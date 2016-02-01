@@ -3,10 +3,15 @@
 # Present
 
 Eric Skoglund
+
 Helio Lourerio
+
 Svetlin Stefanov
+
 Jyrkii Pulliainen
+
 Ambreen Sheikh
+
 Fredrik Håård
 
 # Agenda
@@ -21,18 +26,16 @@ Fredrik Håård
 ## Call for Proposals
 
 What where the lessons learned last year?
- - More advanced topics
- - Workshops
+The feedback for last year called for more advanced topics and workshops.
+It was decided that for this year we should have tree different timeslots to accomodate workshops and longer
+more advanced talks.
+ * 30 minute slot
+ * 45 minutes for a more advances talk
+ * 3 hours for the workshops
 
- Timeslots:
- - 30 minute slot
- - 45 minutes for a more advances talk
- - 3 hours for the workshops
 
 
- Helio will take care of fixing the website
- - Create the page
- - Create the google form
+Helio will take care of fixing the website and create the google form.
 
 Aim to have this done by the third of november.
        
