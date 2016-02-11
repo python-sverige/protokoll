@@ -1,11 +1,11 @@
 * Elect Meeting Chair
-* 
+ 
   Anbreen
 * Elect Meeting Secretary
-* 
+ 
   Eric
 * Elect two protocol reviewers
-* 
+ 
   Helio and Ana
 * Last meeting's notes @eric
 
