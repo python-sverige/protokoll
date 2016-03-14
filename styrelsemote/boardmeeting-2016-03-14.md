@@ -23,6 +23,7 @@
 	We will accept all talks that have no -1 and at least one +1
 * Ticket sales @fredrik
   Try to start ticket sales next week (21th of March).
+  Jyrki will set up the eventbrite site and Eric and Fredrik will take a look before we publish it.
 ** Actions
 * Venue status
   We had a new invoice from the venue. Due date april 9th.
