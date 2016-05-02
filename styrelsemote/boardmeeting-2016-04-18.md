@@ -5,7 +5,7 @@
   Eric
 
 * Elect two protocol reviewers
-  Ana and Fredrik W
+  Ana and Fredrik V
 
 * Last meeting's notes @fredrik
   Reviewed
