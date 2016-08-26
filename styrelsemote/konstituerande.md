@@ -5,7 +5,7 @@
 * Fredrik Håård, 19800215-5953
 * Simon Albinsson, 19821208-0439
 * Eric Skoglund, 19910313-0077
-* Helio Lourelio, 19730705-4671
+* Helio Loureiro, 19730705-4671
 * Andrey Devyatkin, 19861124-7159
 * Martin Melin, 19891210-0313
 
