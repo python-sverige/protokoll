@@ -1,9 +1,16 @@
-= Minutes of meeting (2019-07-30)
+# Minutes of meeting (2019-07-30)
 
 * Introduction into MoM organization and why we need to use it by Helio.
 * Requested to change calendar to bi-weekly by Xu.
 
-== Reports from Anna
+## Presents
+
+* Anna
+* Helio
+* Michael
+* Xu
+
+## Reports from Anna
 
 * Post address updated into Anna's address for regular mail.
     * Physical address updated into the location in Kungsholmen by Anna. Pilgatan 11.
@@ -15,7 +22,7 @@
 * Follow up with volunteers and get more organized - suggested to direct to Steven
 
 
-== Reports from Helio
+## Reports from Helio
 
 * Ticket sales: 2 tickets
 * CFP: 2 
@@ -27,14 +34,14 @@
 * Pursue keynote speakers to the conference.
 * PSF calendar not updated.
 
-== Michael 
+## Michael 
 
 * Question regarding booth, how to handle, space.
 * Suggested to setup a team to handle booths.
 * Finally decide to drop the booth.
 * Share into europython group - action point.
 
-=== Mail sent - template
+### Mail sent - template
 
 PyCon Sweden on December 12th in Stockholm and CFP opened
 
