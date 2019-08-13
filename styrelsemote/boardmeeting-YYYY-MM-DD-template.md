@@ -1,22 +1,22 @@
 Board Meeting YYYY-MM-DD
 ------------------------
 
-= Members
+# Members
 * Name1
 * Name2
 * Name3 (at the 3 least 3 people to have an official meeting)  
 
-== Secretary
+## Secretary
 * Name1 (who filled up this doc)
 
-== Approvers
+## Approvers
 * Name2
 * Name3
 
-= Agenda
+# Agenda
 * Topic1
 * Topic2
 * Topic3
 
-= Minutes of Meeting
+# Minutes of Meeting
 (describe the meeting, how said what and who took what action point)
