@@ -22,14 +22,14 @@ Board Meeting 2019-07-13
 # Minutes of Meeting
  - General discussion and overview regarding past meeting.  A quick tour on github repository for MoMs.
  - Ticket sales report:
-  ** 13 early bird
-  ** 3 business
-  ** 2 personal
-  ** 3 student
+     - 13 early bird
+     - 3 business
+     - 2 personal
+     - 3 student
  - Gross cash in from sales: 36700 sek.
  - CFP report:
-  - 11 in total
-  - 2 workshops
+     - 11 in total
+     - 2 workshops
  - Missing Anna on this meeting.
  - Holding the follow up regarding ticket sales with tax - Helio
  - Pending to send mails regarding the conference to past participants (via eventbrite) - Helio
