@@ -24,6 +24,15 @@ Board Meeting 2019-09-10
 
 # Minutes of Meeting
 * Actions...
+ * billjeto - for next year only
+ * logo waiting some input from us - Anna
+ * Christine / Steven's friend mail fixed for the board
+ * granted Christine access into drive
+ * PSF funding - on hold due venue issue
+ * Fix to have 2018 page - not done yet - Helio
+ * No answer from PSF from calendar - contact Lorena - Helio
+ * provide access into info account to Nuo - not done yet - Helio
+ * get into touch with Tess - Christine - done
 
 * Current status
   * Tickets sold: 49
