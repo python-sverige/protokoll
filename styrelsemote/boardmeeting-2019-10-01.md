@@ -1,4 +1,4 @@
-Board Meeting YYYY-MM-DD
+Board Meeting 2019-10-01
 ------------------------
 
 # Members
