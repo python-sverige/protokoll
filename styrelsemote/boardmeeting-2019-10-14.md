@@ -32,7 +32,7 @@ Board Meeting 2019-10-14
   * T-shirts ok
   
   * Send program and schedule to keynote speakers - Helio
-  * Talk to iBar to upgrade as sponsors and invite to panel discussion - Christine
+  * Talk to Ivbar to upgrade as sponsors and invite to panel discussion - Christine
   * Talk starstable to upgrade as sponsors and invite to panel discussion - Christine
   * Contact badge printing company by phone - Helio
   * Mingle - lets pray
