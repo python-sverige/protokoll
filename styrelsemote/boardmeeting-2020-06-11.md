@@ -25,12 +25,12 @@ Board Meeting 2020-06-11
 * planning to run separated tracks in parallel
   * each track can have 2 - 4 talks per day 
   * workshop (2 - 3h maximum)
-  * ask Erik Sundell/Letícia Portella for Jupyter Notebook workshop
+  * ask Erik/Letícia for Jupyter Notebook workshop
 * key note speakers 2 to ask and invite to be key note life next year:
-  * Ákos Hochrein @Helio or @Steven
-  * Alexander Hultner @Helio or @Steven
+  * Ákos @Helio or @Steven
+  * Alexander @Helio or @Steven
   * Diana Spotify @Helio
-  * Lucie Gattepaille, Eva-Lisa Meldau @Christine
+  * Lucie, Eva-Lisa @Christine
   *  ping Lorena from PSF/PyLadies for keynote suggestions @Christine
 * schedule tracks and talks
 * administer channels in video + one volunteer assistant (event. use streamyard as streaming tool) 
