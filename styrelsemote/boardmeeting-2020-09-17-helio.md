@@ -15,10 +15,6 @@ Board Meeting 2020-09-17
 
 # Agenda
 * Sponsors
-    Maurille introduction
-    Pet show
-    Interviews w/ keynotes
-    Streamyard as platform
 
 
 # Minutes of Meeting
