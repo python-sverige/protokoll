@@ -27,6 +27,7 @@ Board Meeting 2020-09-17
 
 # Minutes of Meeting
 * Check invoice to sponsors
+Always send the invoices request to Anna by mail.
   - Sent already to H&M, preparing to send to Funnel, 46Elks
   - Need to check with the reference person from last year
   - Helio to send the invoice info from last year
