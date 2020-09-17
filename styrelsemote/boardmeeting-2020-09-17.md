@@ -1,4 +1,4 @@
-Board Meeting 2020-08-20
+Board Meeting 2020-09-17
 ------------------------
 
 # Members
