@@ -8,7 +8,7 @@ Board Meeting 2020-09-17
 * Anna
 
 ## Secretary
-* Steven
+* Steven/Helio
 
 ## Approvers
 * Helio
@@ -21,6 +21,9 @@ Board Meeting 2020-09-17
 * Skattverket situation update
 * Update website
 * CFP status
+* Coffee status
+* Video streaming
+
 
 # Minutes of Meeting
 * Check invoice to sponsors
@@ -41,3 +44,12 @@ Board Meeting 2020-09-17
 * CFP
   - 51 proposals
   - Helio to create schedule
+
+* Coffee status
+  - Confirmed by mail - to be delivered as mails listing to them
+  - Create signing in eventbrite - Helio
+  - Check about getting breakfast - Helio
+
+* Video streaming
+  - Confirmed service w/ streamyeard.
+  - Asked to create 10 subordinated accounts for volunteers to handle the videos.
