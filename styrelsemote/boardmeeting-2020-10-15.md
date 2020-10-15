@@ -52,3 +52,5 @@ Board Meeting 2020-10-15
   - Create opening presentation - in case Anna can't attend (probably)
   - Create intro video display conference name, schedule, and sponsors
   - Create page/slide to be displayed at every talk w/ conference info
+  - Add coffee promo into eventbrite
+    - create a coffee promo slide to be presented during the conference
