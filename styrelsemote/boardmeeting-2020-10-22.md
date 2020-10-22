@@ -63,3 +63,4 @@ Board Meeting 2020-10-22
   - Create page/slide to be displayed at every talk w/ conference info -Helio
   - Add coffee promo into eventbrite - Helio done
     - create a coffee promo slide to be presented during the conference - Helio
+  - Sponsored ads on website  - Tine - done
