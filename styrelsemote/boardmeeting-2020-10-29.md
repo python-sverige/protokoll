@@ -5,7 +5,7 @@ Board Meeting 2020-10-29
 * Helio
 
 ## Secretary
-* Helio
+* Steven
 
 ## Approvers
 
@@ -13,48 +13,50 @@ Board Meeting 2020-10-29
 * Selected talks
 * Schedule
 * Panel/job discussions
-* Missing items that we need to discuss next time
+* Logistics
 
 # Minutes of Meeting  
 * Selected talks
-  - send final mails to speakers - Steven - done
-  - answer mail regarding workshop - Helio - done
-  - publish selected and confirmed talks into webpage - Steven - done
-  - send formal mail to the talk *error* - Helio
-  - schedule - done
-  - publish schedule on website - tbd - we need links to youtube
-  - contact authors regarding time, etc - Steven
-  - contact keynotes regarding time - Tine
-  - Nuo to contact authors in track for rehearsal
-  
+  - send formal mail to the talk *error* - Helio - Done
+  - publish schedule on website - Done
+  - contact authors regarding time, etc - Steven - Done
+  - contact keynotes regarding time - Tine - Done
+  - Nuo to contact authors in track for rehearsal - WIP
+
 * Schedule
-  - Complete the schedule online with talks
-    - Main Channel - Tine
-    - Data Science - Nuo
-    - Web/Education - Slavik
-    - SW/Performance - Steven
-    - Workshop/Panel/Lightning - Helio
-  - Confirm time w/ speakers by mail - Steven
-  - Add speaker video slot into StreamYard with all information and schedule for correct day and time - by each one per track
-  - Add video into 2020 playlist at youtube - Helio (later)
+  - Complete the schedule online with talks - Done
+  - Confirm time w/ speakers by mail - Steven - Done
+  - Add speaker video slot into StreamYard with all information and schedule for correct day and time - WIP
+  - Add video into 2020 playlist at youtube - done
   - Bring the volunteers in - Helio - done
-    - Also have a online meeting w/ them - planned to Tuesday if they agree - Helio
+    - Also have a online meeting w/ them - planned to Tuesday if they agree - Helio - Done
+  - Add the rest of the YouTube links to the schedule on the webpage - WIP
   
 * Panel/job discussions
-  - Create area in slack for that - Steven
+  - Create area in slack for that - done
+  - Contact speakers - Helio - WIP
+  - ML discussion, to invite speakers - WIP
   
 * Stickers
-  - answer the mail - Steven
-  
-* Missing items that we need to discuss
-  - T-shirts (I guess it will be too late) - no t-shirt :(
-  - Create opening presentation - in case Anna can't attend (probably)
-    - Anna to record next - until 5th of november
-    - Slavik as backup to do the opening
-  - Closing - to be assigned per responsible
-  - Create intro video display conference name, schedule, and sponsors - Helio
-  - Create channel that displays what is happening during the conference - Helio
-  - Create page/slide to be displayed at every talk w/ conference info -Helio
-  - Add coffee promo into eventbrite - Helio done
-    - create a coffee promo slide to be presented during the conference - Helio
-  - Sponsored ads on website  - Tine - done
+  - Negotiated 5000 stickers. Need to provide SVG - Anna/Helio
+  - Add sponsor to the website - Steven
+
+* Conference Logistics
+  - Use static background as opening, add sponsor logos - Helio/Christine
+  - Backup moderator, per track basis
+  - Volunteers chose their interested tracks. We assign talks and inform them.
+  - Schedule with volunteer and speaker for rehearsal - Everyone who is responsible
+  - Distribute the "How to use StreamYard" to volunteers and speakers - Everyone who is responsible
+  - Schedule a day for briefing for every one (Tue 3rd Oct 2020)
+  - Speaker announcement for social media - Christine
+  - Keynote speaker interview, first one up - Christine
+  - Opening - Slavik - WIP
+    - Welcome
+    - Slack
+    - Introduce volunteers
+    - Logistics
+    - Youtube links and schedule, where to get them
+    - Code-of-conduct
+    - Social media (check the website) , and hashtags
+    - Thank and introduce the sponsors
+   - Logistics: distribution of souvenirs - Helio
