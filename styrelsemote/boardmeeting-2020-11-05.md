@@ -3,11 +3,17 @@ Board Meeting 2020-11-05
 
 # Members
 * Helio
+* Ravi
+* Christine
+* Slavik
+* Anna
 
 ## Secretary
 * Steven
 
 ## Approvers
+* Slavik
+* Christine
 
 # Agenda
 * Selected talks
@@ -16,37 +22,49 @@ Board Meeting 2020-11-05
 * Logistics
 
 # Minutes of Meeting  
-* Selected talks
-  - Nuo to contact authors in track for rehearsal - WIP
+* Selected talks for rehearsal
+  - Software - half done
+  - Data - WIP
+  - Web & edu - planned on 10th Nov for demo
 
 * Schedule
-  - Add speaker video slot into StreamYard with all information and schedule for correct day and time - WIP
-  - Add the rest of the YouTube links to the schedule on the webpage - WIP
+  - Add speaker video slot into StreamYard with all information and schedule for correct day and time - Done
+  - Add the rest of the YouTube links to the schedule on the webpage - Done
   
 * Panel/job discussions
-  - Contact speakers - Helio - WIP
-  - ML discussion, to invite speakers - WIP
+  - Contact speakers for panel - Done
+  - ML discussion
+    - two confirmed, two pending
+    - to schedule demo and create private coordination channel
+    - Add volunteers to help control the stream during discussion
+      - Steven for data
+      - Helio for career
   
 * Stickers
-  - Negotiated 5000 stickers. Need to provide SVG - Anna/Helio
-  - Add sponsor to the website - Steven
+  - Negotiated 5000 stickers. Need to provide SVG
+    - Anna to contact designer
+  - Add sponsor to the website - Done
 
 * Conference Logistics
   - Use static background as opening, add sponsor logos - Helio/Christine
-  - Backup moderator, per track basis
-  - Volunteers chose their interested tracks. We assign talks and inform them.
-  - Schedule with volunteer and speaker for rehearsal - Everyone who is responsible
-  - Distribute the "How to use StreamYard" to volunteers and speakers - Everyone who is responsible
-  - Schedule a day for briefing for every one (Tue 3rd Oct 2020)
+    - Slavk needs the background by weekend or 10th.
+  - Backup moderator, per track basis - Done
+  - Distribute the "How to use StreamYard" to volunteers and speakers
+    - Done for software track
+    - Data and web and edu pending
+  - Schedule a day for briefing for every one (Tue 10th Oct 2020)
+    - Group photo from organizer
+    - must attend
   - Speaker announcement for social media - Christine
-  - Keynote speaker interview, first one up - Christine
+    - Packing multiple talks in one post to prevent flooding of posts
+  - Keynote speaker interview - Done
   - Opening - Slavik - WIP
-    - Welcome
-    - Slack
-    - Introduce volunteers
-    - Logistics
-    - Youtube links and schedule, where to get them
-    - Code-of-conduct
-    - Social media (check the website) , and hashtags
-    - Thank and introduce the sponsors
-   - Logistics: distribution of souvenirs - Helio
+  - Logistics: distribution of souvenirs - Helio
+  - lightning talks - Helio
+    - One hour at the end of the day
+    - First come first serve
+    - Add to the program and links
+  - End of the day and thank you - Steven
+    - Thank the sponsors
+    - Thank the volunteers and organizers
+    - What happens tomorrow
