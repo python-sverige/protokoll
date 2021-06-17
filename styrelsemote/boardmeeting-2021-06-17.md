@@ -19,8 +19,9 @@ Board Meeting YYYY-MM-DD
 
 # Agenda
 * Susbscription service
-* Topic2
-* Topic3
+* Update website to include cfp information
+* Sponsors
+* Keynote speakers
 
 # Minutes of Meeting
 * Susbscription service
@@ -30,11 +31,11 @@ Board Meeting YYYY-MM-DD
 * Update website to include cfp information.
   * Perhaps guidelines how to do that.
 
-* Sponsors:
+* Sponsors
   * Great response from previous years.
   * Follow up w/ career panels: Tamara.
 
-* Keynote speakers:
+* Keynote speakers
   * 3 names selected.
   * 1 pending: Nuo to confirm.
 
