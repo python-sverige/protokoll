@@ -25,11 +25,11 @@ Christine
 
 ## Follow up on last weeks action items
 
-[DONE] Confirming 4th keynote speaker
-[DONE] T-shirt delivery
-[DONE] Booking of venue for 2nd day
-[INPROGRESS] Opening and closing statements
-[INPROGRESS] Setting up career, ML/AI panels
+- [DONE] Confirming 4th keynote speaker
+- [DONE] T-shirt delivery
+- [DONE] Booking of venue for 2nd day
+- [INPROGRESS] Opening and closing statements
+- [INPROGRESS] Setting up career, ML/AI panels
 
 ## Update on CFP status and talk
 - Communicate to external reviewers on how to perform reviews
