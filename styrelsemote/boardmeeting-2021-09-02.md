@@ -1,4 +1,4 @@
-# Board Meeting 2021-08-19
+# Board Meeting 2021-09-02
 
 # Members
 Steven
