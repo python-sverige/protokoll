@@ -2,21 +2,43 @@ Board Meeting 2021-09-30
 ------------------------
 
 # Members
-* Name1
-* Name2
-* Name3 (at the 3 least 3 people to have an official meeting)  
+* Christine
+* Tamara
+* Helio
+* Erasmus
+* Steven
+* Slavik  
 
 ## Secretary
-* Name1 (who filled up this doc)
+* Slavik
 
 ## Approvers
-* Name2
-* Name3
+* Steven
+* Helio
 
 # Agenda
-* Topic1
-* Topic2
-* Topic3
+* Welcome Erasmus!
+* Check on the last meeting's TODO's
+* Volunteers onboarding
+* Last meeting action items
+* StreamYard demonstration
 
 # Minutes of Meeting
-(describe the meeting, how said what and who took what action point)
+* Introduction to (of) Erasmus
+
+## Follow up on last weeks action items
+* [WIP] Continue opening and closing statements
+* [Done, email sending pending: Helio] Helio / Steven: publish registration form on website, mailing list, slack from last year
+* [Done] Steven: contact all keynote speakers for schedule and GDPR
+* [WIP] Tamara: to meet the panelist, contact volunteers
+* [WIP] Steven & Christine to publish new job ads on website
+
+## Volunteer onboarding
+* (Tamara) Nobody of the last year volunteers replied.
+
+## Action items tbd until next meeting
+* Steven to modify scripts to automate StreamYard session creation.
+* Create the streams.
+* Helio: change the background in the StreamYard studio.
+* We have to invite 1-2 volunteers ourselves.
+* Schedule the try-ons on StreamYard and invite the speakers.
