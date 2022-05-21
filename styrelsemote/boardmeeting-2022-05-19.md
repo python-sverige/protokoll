@@ -4,7 +4,7 @@ Board Meeting 2022-05-19
 # Members
 * Christine Winter
 * Anwesha Das
-* Wie Der Chein
+* Wei Der Chien
 * Alexander Hultner
 * Fillipe
 
