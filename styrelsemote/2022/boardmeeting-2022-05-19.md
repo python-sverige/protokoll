@@ -6,7 +6,7 @@ Board Meeting 2022-05-19
 * Anwesha Das
 * Wei Der Chien
 * Alexander Hultner
-* Fillipe
+* Phillipe
 
 ## Secretary
 * Raiyan Yahya
