@@ -26,6 +26,8 @@ Board Meeting 2022-05-19
      Make the job fair a smooth experience for sponsors and attendees.
      Top sponsors get to feature in the job fair.
      Fillipe to create and agenda/guidlines for the job fair.
+     AP: Phillipe to curate the job fair 
   * We will also have "early bird" tickets for the event
   * Maybe we should create content brochures that people can send or present to their employers, explaining the event and its benefits.
+    AP: Phillipe
   * We should talk to the PyCon US list of sponsors.
