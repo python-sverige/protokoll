@@ -3,21 +3,38 @@ Board Meeting 2022-06-02
 ------------------------
 
 # Members
-* Name1
-* Name2
-* Name3 (at the 3 least 3 people to have an official meeting)  
+* Helio
+* Christine
+* Raiyan
+* Philippe
 
 ## Secretary
-* Name1 (who filled up this doc)
+* Helio
 
 ## Approvers
-* Name2
-* Name3
+* Christine
+* Raiyan
 
 # Agenda
-* Topic1
-* Topic2
-* Topic3
+* Venue
+* Last meeting items
+* Sponsors
 
 # Minutes of Meeting
-(describe the meeting, how said what and who took what action point)
+* Venue
+  - Response from Hilton
+  - Cost ~53k
+  - Days 3-4th November
+  - Not decided
+* Cost planning spreadsheet available
+  - ticket prices rised a bit due costs in Hilton (as basis)
+* Last meeting items
+  - PSF grant: to be done after venue and date decided
+  - Phillipe AP -> on going
+* Sponsors
+  - Stills waiting our answers <- waiting venue and date
+* CPF
+ - Christine will create using google forms.  AP: Christine 
+* Keynot
+ - Create spreadsheet for suggestion.  AP: Helio create
+ - Everybody add suggestions.  AP: Helio -> ping on slack
