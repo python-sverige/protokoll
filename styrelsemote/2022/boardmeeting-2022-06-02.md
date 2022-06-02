@@ -25,7 +25,7 @@ Board Meeting 2022-06-02
   - Response from Hilton
   - Cost ~53k
   - Days 3-4th November
-  - Not decided
+  - Not decided.  AP: decide until June 13th (Monday)
 * Cost planning spreadsheet available
   - ticket prices rised a bit due costs in Hilton (as basis)
 * Last meeting items
@@ -35,6 +35,6 @@ Board Meeting 2022-06-02
   - Stills waiting our answers <- waiting venue and date
 * CPF
  - Christine will create using google forms.  AP: Christine 
-* Keynot
+* Keynote
  - Create spreadsheet for suggestion.  AP: Helio create
  - Everybody add suggestions.  AP: Helio -> ping on slack
