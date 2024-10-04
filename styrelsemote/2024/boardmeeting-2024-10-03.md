@@ -5,7 +5,7 @@ Board Meeting 2024-09-19
 * Aris
 * Helio
 * Nikita
-* Somron
+* Simron
 
 ## Secretary
 * Nikita
@@ -14,7 +14,7 @@ Board Meeting 2024-09-19
 * Aris
 * Helio
 * Nikita
-* Somron
+* Simron
 
 # Agenda
 1. Updates
@@ -51,9 +51,9 @@ Finished the schedule
 Will notify the speakers about that via email now.
 
 ## Social event
-Simron is taking care of it. We are looking for a place for 100 people.
+Simron is taking care of it. We are looking for a place for 100 people for Friday
 
-We should have a dinner on Thursday for the speakers and orgs. Estimate is 50-80 people.
+We will try to have a dinner on Thursday for the speakers and orgs. Estimate is 50-80 people. Budget pending, Simron will look into it.
 
 Info on this should be available via email.
 
