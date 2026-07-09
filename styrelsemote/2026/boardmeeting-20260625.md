@@ -25,6 +25,13 @@ Update website with new information - Tine
 Fill up Gantt spreadsheet - Helio
 Suggestion to migrate from GitHub to Codeberg - Helio (not a priority)
 Check w/ Grafana if they want to sponsors us
+Fernada joined organization and accesses granted - Helio
 
 ## Financial - books
 To contact Ulrika and follow up situation - Helio
+
+## Others
+Suggestion to have individuals responsible for certain areas:
+- Canva - Fernanda
+- Pretalx - Aris
+- Pretix - Nikita
