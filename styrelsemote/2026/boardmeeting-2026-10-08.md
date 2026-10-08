@@ -13,7 +13,7 @@ Board Meeting 2026-10-08
 
 ## Secretary
 * Helio
-* 
+
 ## Approvers
 * Fernanda
 * Jahanzeb
